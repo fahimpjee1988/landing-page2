@@ -1,0 +1,146 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Nanum+Gothic&display=swap');
+
+/* assets:
+colors:#2C3E40 ,#F27405,#8C3503,#592202,#0D0706 */
+ 
+html{
+    scroll-behavior: smooth;
+    font-family: 'Lora', serif;
+font-family: 'Nanum Gothic', sans-serif;
+color: white;
+font-size: 20px;
+
+
+ }
+
+nav ul li{
+    display: inline;
+    list-style: none;
+    margin: 5%;
+    font-size: 20px;
+    color: white;
+    
+      
+}
+a:visited{
+color: white;
+
+}
+a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+nav ul{
+    text-align: center;
+  
+   
+    
+}
+header nav{
+    position:fixed;
+    width:98%;
+    
+    background-color:  #2C3E40 ;
+    
+    
+}
+#porsche0{
+    background-image: url(../img/tim-meyer-timm-jpeg-mApCPJrEVxo-unsplash.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+}
+#porsche1{
+    background-image: url(../img/eric-saunders-crUGdn1j-RE-unsplash.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#porsche2{
+    background-image: url(../img/steven-binotto-F1fBfv3lT6I-unsplash.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#porsche3{
+    background-image: url(../img/alwin-kroon-7svC81Zf7t8-unsplash.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+
+.h2{
+    font-size: 40px;
+    
+   margin: 0 auto;
+   padding-top:15%;
+   width:400px;
+}
+.p{
+    font-size: 15px;
+    
+    margin: 0 auto;
+    padding-top:10%;
+    width:400px;
+}
+.h2black{
+    font-size: 40px;
+    
+    margin: 0 auto;
+    padding-top:15%;
+    width:400px;
+    color: black;
+    opacity: 0.8;
+}
+.pblack{
+    font-size: 15px;
+    
+    margin: 0 auto;
+    padding-top:10%;
+    width:400px;
+    color:black;
+    background-color: white;
+    opacity: 0.8;
+}
+
+.but{
+   padding-left:40%;
+
+}
+.but2{
+    padding:10px;
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border-radius: 7px;;
+}
+#footer{
+    
+    background-color: #0D0706;
+    width: 450px;
+    margin: 5%;
+}
+
+.foot2{
+   
+    list-style: none;
+    margin: 10%;
+}
+.foot{
+    margin: 7,5%;
+}
+#foota{
+    padding-left: 26%;
+}
+.foot2 a:hover{
+text-decoration: underline;
+
+}
